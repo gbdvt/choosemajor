@@ -21,10 +21,9 @@ ChooseMajor is a web application designed to help students discover their ideal 
 - **React.js**: A JavaScript library for building user interfaces.
 - **JavaScript**: Programming language used to create interactive features.
 - **HTML & CSS**: For structuring and styling the application.
-- **React Router** (optional): For handling routing in the application (if implemented).
 
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/choosemajor.git
+   git clone https://github.com/gbdvt/choosemajor.git
    cd choosemajor
