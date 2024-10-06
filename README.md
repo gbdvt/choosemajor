@@ -15,7 +15,6 @@ ChooseMajor is a web application designed to help students discover their ideal 
 - User-friendly interface built with React.js.
 - Dynamic question flow based on user answers.
 - Personalized major suggestions based on quiz results.
-- Future integration of ad services for monetization.
 
 ## Technologies Used
 - **React.js**: A JavaScript library for building user interfaces.
