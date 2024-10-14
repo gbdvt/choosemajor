@@ -1,6 +1,7 @@
 # ChooseMajor
 
-ChooseMajor is a web application designed to help students discover their ideal majors through an interactive quiz. By answering a series of questions about their preferences and interests, users will receive personalized major suggestions, making the decision-making process more engaging and informative.
+Developed "choosemajor," an intelligent web-based platform that assists students in selecting their ideal academic majors through adaptive questioning and personalized recommendations. The system combines statistical classification and expert system methodologies, employing machine learning algorithms like Decision Trees and Naive Bayes classifiers to enhance the recommendation engine. Implemented a dynamic questionnaire that adaptively selects the most informative questions based on user responses, similar to the approach used in "Akinator." Built a comprehensive relational database to store data on majors, courses, and attributes for efficient data retrieval. Utilized Python with frameworks such as Django or Flask for backend development, and JavaScript frameworks like React.js or Vue.js for a responsive frontend. Ensured data privacy and compliance with regulations by implementing secure authentication protocols and encryption techniques.
+
 
 ## Table of Contents
 - [Features](#features)
